@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+PyInstaller
+
+data/planilla.xlsx
+output/*.png
