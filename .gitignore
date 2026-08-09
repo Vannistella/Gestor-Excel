@@ -2,7 +2,13 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-PyInstaller
+
 
 data/planilla.xlsx
 output/*.png
+
+
+build/
+dist/
+*.spec
+dist.zip
